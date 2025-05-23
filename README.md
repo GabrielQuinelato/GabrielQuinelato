@@ -6,12 +6,12 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python**
+   Linguagens: <strong>Python</strong>.<br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **GitHUb**
-		 **Pycharm**
+   Ferramentas: <strong>GitHUb</strong>.<br>
+		 <strong>Pycharm</strong>.<br>
 </p>
 
 <p align="left">
