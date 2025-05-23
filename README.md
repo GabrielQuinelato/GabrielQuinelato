@@ -2,15 +2,16 @@
 
 <p align="left"> 
   ## Olá, tudo bem?
-	Me chamo Gabriel Quinelato e estou no início do meu futuro na programação, aprendendo online, fazendo tais cursos, com o meu foco na programação de <strong>Python</strong>.<br>. Atualmente sou estudante da escola SESI, faço um curso de informática no SENAI.
+	Me chamo Gabriel Quinelato e estou no início do meu futuro na programação, aprendendo online, fazendo tais cursos. Atualmente sou estudante da escola SESI, faço um curso de informática no SENAI. Estarei grato por tais conselhos ao logo do meu aprendizado.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **Python**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **GitHUb**
+		 **Pycharm**
 </p>
 
 <p align="left">
