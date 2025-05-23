@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ## Olá, tudo bem?
+  <strong>Olá, tudo bem?</strong>
 	Me chamo Gabriel Quinelato e estou no início do meu futuro na programação, aprendendo online, fazendo tais cursos. Atualmente sou estudante da escola SESI, faço um curso de informática no SENAI. Estarei grato por tais conselhos ao logo do meu aprendizado.
 </p>
 
