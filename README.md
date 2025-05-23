@@ -1,4 +1,5 @@
-## Olá, tudo bem? Me chamo Gabriel Quinelato e estou no início do meu futuro na programação, aprendendo online, fazendo tais cursos ou outras formas de melhoras o meu conhecimento nesta área 👋
+## Olá, tudo bem?
+Me chamo Gabriel Quinelato e estou no início do meu futuro na programação, aprendendo online, fazendo tais cursos ou outras formas de melhoras o meu conhecimento nesta área 👋
 
 <!--
 **GabrielQuinelato/GabrielQuinelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
