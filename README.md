@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  📱 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  📱 Aqui vai algums formas de você entrar em contato comigo: ⤵️
 </p>
 	
  <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:gabrielpontes1316@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gabriel-q-pontes-b42881304/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDI" alt="LinkedIn"/></a>
