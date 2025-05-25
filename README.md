@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-   🎒Ferramentas: <strong>GitHUb</strong>; <strong>Pycharm</strong>.<br>
+   🎒Ferramentas: <strong>GitHub</strong>; <strong>Pycharm</strong>.<br>
 </p>
 
 <p align="left">
