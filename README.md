@@ -18,9 +18,9 @@
 </p>
 	
  <p align="left">
-  <a href="https://mail.google.com/mail/u/2/#inbox" title="Gmail">
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gabriel-q-pontes-b42881304/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDI" alt="LinkedIn"/></a>
   <a href="https://wa.me/5524992890496" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=//wa.me/5524992890496" alt="WhatsApp"/></a>
